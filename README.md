@@ -8,7 +8,7 @@ Link to Original Code: https://pastebin.com/embed_js/jB6k06hG
 
 It have a slight improve in the computation. 
 
-This code is actually not that suitable for beginners as it involves quite a lot of Object-Oriented Programming... 
+This code is actually not that suitable for beginners as it involves quite a lot of Object-Oriented Programming... There are easier ways to make a snake game.
 
 Some issues to solve...
 1) The button control is not responsive sometimes and that the button must be lifted back up before the next button can be pressed.
